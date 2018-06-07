@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone,
+
+I'm Corey, I working through some data science projects with Python. 
